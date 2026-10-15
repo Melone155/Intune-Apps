@@ -14,6 +14,14 @@
 | Installationsbefehl | powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\install.ps1" |
 | Deinstallationsbefehl | powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\uninstall.ps1" |
 ---
+#Erkennungsregel
+
+| Einstellung | Wert |
+|---|---|
+| Regelformat | Erkennungsregeln manuell konfigurieren |
+| Regeltyp | Datei |
+| Pfad | C:\Program Files\Adobe\Acrobat DC\Acrobat\ |
+| Datei oder Ordner | Acrobat.exe |
 
 ## Benötigte Dateien
 
