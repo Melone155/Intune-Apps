@@ -11,7 +11,8 @@
 | Installationsverhalten | System / Benutzer |
 | Architektur | x64 |
 | Neustart erforderlich | Nein |
-
+| Installationsbefehl | powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\install.ps1" |
+| Deinstallationsbefehl | powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\uninstall.ps1" |
 ---
 
 ## Benötigte Dateien
