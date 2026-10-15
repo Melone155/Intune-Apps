@@ -20,8 +20,8 @@
 |---|---|
 | Regelformat | Erkennungsregeln manuell konfigurieren |
 | Regeltyp | Datei |
-| Pfad |  |
-| Datei oder Ordner |  |
+| Pfad | C:\Program Files (x86)\dotnet\host\fxr\8.0.32 |
+| Datei oder Ordner | hostfxr.dll |
 
 ## Benötigte Dateien
 
